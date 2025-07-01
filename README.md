@@ -57,7 +57,7 @@ Here are **5 data projects** I’ve completed so far:
 ## 📫 Let's Connect!
 
 - 📧 Email: [nph15082000@gmail.com]  
-- 💼 LinkedIn: [[Huy Nguyen](https://www.linkedin.com/in/huy-nguyen-b91b7a268/)]  
+- 💼 LinkedIn: [[Huy Nguyen](https://www.linkedin.com/in/huynguyenphuong/)]  
 - 🗂 Portfolio: ([Huy Nguyen](https://github.com/nph1508))
 
 ---
